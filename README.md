@@ -1,7 +1,8 @@
 # Excel-Bike-Purchasing-Habits
 Using excel to clean data, create pivot tables, and build a dashboard to visualize bike purchasing habits
 
-Excel Sheet Descriptions
+**Excel Sheet Descriptions**
+
 Bike_Buyers Original_Dataset: Raw data set from kaggle
 Cleaned Data: Data cleaned for easier usage 
 Pivot Tables: 3 created pivot tables to view purchasing habits
